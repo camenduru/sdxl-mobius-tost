@@ -5,7 +5,7 @@
     "steps": 30,
     "cfg": 3.5,
     "sampler_name": "dpmpp_2m_sde_gpu",
-    "scheduler": "normal",
-    "width": 1152,
+    "scheduler": "simple",
+    "width": 1600,
     "height": 832
 }
