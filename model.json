@@ -1,6 +1,11 @@
 {
-    "prompt": "Totoro at the pool eating toast",
-    "negative_prompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature",
+    "positive_prompt": "Vintage analog, Close up portrait of a Medieval woman in an elaborate dress, in front of an army of mounted Knights. Cinematic. Style by J.C. Leyendecker. Canon 5d Mark 4, Kodak Ektar",
+    "negative_prompt": "text, watermark, signature, anime, animation, cgi, manga, drawiing",
+    "seed": 0,
+    "steps": 30,
+    "cfg": 3.5,
+    "sampler_name": "dpmpp_2m_sde_gpu",
+    "scheduler": "normal",
     "width": 1152,
     "height": 832
 }
